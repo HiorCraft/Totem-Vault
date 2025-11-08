@@ -23,7 +23,7 @@ KEK_Dergamer:
 
 - KEK_Dergamer
 
-1----------------------
+----------------------
 Ole:
 
 - Colerfull
