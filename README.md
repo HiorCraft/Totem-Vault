@@ -1,6 +1,6 @@
 # Totem-Vault
 
-#Totem Id:
+# Totem ID
 ----------------------
 Niklas:
 
@@ -8,7 +8,7 @@ Niklas:
 - Peach
 
 ----------------------
-HiorCraft:
+Hior:
 
 - Caffee
 - Fuxel
@@ -19,7 +19,7 @@ KamiIIe:
 - KamiIIe
 
 ----------------------
-KEK_Dergamer:
+Gamer:
 
 - KEK_Dergamer
 
