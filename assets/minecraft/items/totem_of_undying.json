@@ -1,0 +1,104 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "BastiGHG",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_bastighg"
+        }
+      },
+      {
+        "when": "CastCrafter",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_castcrafter"
+        }
+      },
+      {
+        "when": "Floweryalina",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_floweryalina"
+        }
+      },
+      {
+        "when": "Fuxel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_fuxel"
+        }
+      },
+      {
+        "when": "NotAmmo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_notammo"
+        }
+      },
+      {
+        "when": "Caffee",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_caffee"
+        }
+      },
+      {
+        "when": "Peach",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_peach"
+        }
+      },
+      {
+        "when": "Stxgi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_stxgi"
+        }
+      },
+      {
+        "when": "HiorCraft",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_hiorcraft"
+        }
+      },
+      {
+        "when": "Colerfull",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_colerfull"
+        }
+      },
+      {
+        "when": "xNiklas_00",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_xniklas_00"
+        }
+      },
+	{
+        "when": "KamiIIe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_kamiiie"
+        }
+      },
+      {
+        "when": "KEK_Dergamer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_kek_dergamer"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/totem_of_undying"
+    }
+  }
+}
