@@ -47,10 +47,10 @@
         }
       },
       {
-        "when": "Caffee",
+        "when": "SoulLou",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_caffee"
+          "model": "plushies:item/totem_of_undying_soullou"
         }
       },
       {
@@ -99,7 +99,7 @@
         "when": "KEK_Dergamer",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_kek_dergamer"
+          "model": "plushies:item/totem_of_undying_kok_dergamer"
         }
       }
     ],
