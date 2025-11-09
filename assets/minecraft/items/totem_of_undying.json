@@ -39,6 +39,13 @@
           "model": "plushies:item/totem_of_undying_notammo"
         }
       },
+       {
+        "when": "_Danilo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_danilo"
+        }
+      },
       {
         "when": "Caffee",
         "model": {
