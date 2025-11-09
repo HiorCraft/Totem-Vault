@@ -101,6 +101,13 @@
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_kok_dergamer"
         }
+      },
+      {
+        "when": "Timonso",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_timonso"
+      }
       }
     ],
     "fallback": {
