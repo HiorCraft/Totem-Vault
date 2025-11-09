@@ -2,6 +2,15 @@
 
  Totem ID
 ---
+BastiGHG:
+- BastiGHG_v3
+- BastiGHG_v4
+- BastiGHG_1M
+- BastiGHG_v5
+- BastiGHG_v1.5M
+- BastiGHG_ac
+
+---
 Niklas:
 
 - xNiklas_00
