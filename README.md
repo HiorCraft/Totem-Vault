@@ -20,6 +20,7 @@ Niklas:
 Hior:
 - HiorCraft
 - Fuxel
+- Fuzzy
 
 ---
 KamiIIe:
