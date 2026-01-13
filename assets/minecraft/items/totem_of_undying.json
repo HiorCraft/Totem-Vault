@@ -11,39 +11,46 @@
           "model": "plushies:item/totem_of_undying_bastighg"
         }
       },
-       {
+      {
         "when": "BastiGHG_v3",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg_3"
         }
       },
-       {
+      {
         "when": "BastiGHG_v4",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg_v4"
         }
       },
-        {
+      {
         "when": "BastiGHG_v1M",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg_1m"
         }
       },
-       {
+      {
         "when": "BastiGHG_v1.5M",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg_15m"
         }
       },
-       {
+      {
         "when": "BastiGHG_ac",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg_ac"
+        }
+      },
+      {
+        "when": "Hampel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_hampel"
         }
       },
       {
@@ -67,7 +74,7 @@
           "model": "plushies:item/totem_of_undying_fuxel"
         }
       },
-       {
+      {
         "when": "Fuzzy",
         "model": {
           "type": "minecraft:model",
@@ -81,7 +88,7 @@
           "model": "plushies:item/totem_of_undying_notammo"
         }
       },
-       {
+      {
         "when": "_Danilo",
         "model": {
           "type": "minecraft:model",
@@ -93,13 +100,6 @@
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_soullou"
-        }
-      },
-      {
-        "when": "Peach",
-        "model": {
-          "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_peach"
         }
       },
       {
@@ -130,7 +130,7 @@
           "model": "plushies:item/totem_of_undying_xniklas_00"
         }
       },
-	{
+      {
         "when": "KamiIIe",
         "model": {
           "type": "minecraft:model",
@@ -145,11 +145,18 @@
         }
       },
       {
+        "when": "Surf",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_surfs"
+        }
+      },
+      {
         "when": "Timonso",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_timonso"
-      }
+        }
       }
     ],
     "fallback": {
