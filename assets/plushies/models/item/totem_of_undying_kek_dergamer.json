@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/kek_dasTotem",
-		"particle": "kek_dasTotem"
+		"0": "item/kekdergamer_plushi",
+		"particle": "Kek_der_Gamer"
 	},
 	"elements": [
 		{
