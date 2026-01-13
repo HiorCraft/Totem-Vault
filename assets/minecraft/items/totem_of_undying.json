@@ -141,7 +141,7 @@
         "when": "KEK_Dergamer",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_kok_dergamer"
+          "model": "plushies:item/totem_of_undying_kek_dergamer"
         }
       },
       {
@@ -156,6 +156,20 @@
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_timonso"
+        }
+      },
+      {
+        "when": "RuBiX232",
+        "model": {
+            "type": "minecraft:model",
+            "model": "plushies:item/totem_of_undying_rubix232"
+        }
+      },
+      {
+        "when": "Keviro",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_keviro"
         }
       }
     ],
