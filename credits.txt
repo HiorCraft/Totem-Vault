@@ -24,7 +24,7 @@ Texture:
 Dev:
 - KamiIIe
 - HiorCraft
-- Tomonso
+- Timonso
 
 ---------------------------------------
 
