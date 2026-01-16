@@ -141,14 +141,21 @@
         "when": "KEK_Dergamer",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_kek_dergamer"
+          "model": "plushies:item/totem_of_undying_kok_dergamer"
         }
       },
       {
         "when": "Surf",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_surfs"
+          "model": "plushies:item/totem_of_undying_surf"
+        }
+      },
+      {
+        "when": "Glorp",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_glorp"
         }
       },
       {
@@ -161,8 +168,8 @@
       {
         "when": "RuBiX232",
         "model": {
-            "type": "minecraft:model",
-            "model": "plushies:item/totem_of_undying_rubix232"
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_rubix232"
         }
       },
       {
