@@ -5,7 +5,7 @@
 | BastiGHG | BastiGHG_v3, BastiGHG_v4, BastiGHG_1M, BastiGHG_v5, BastiGHG_v1.5M, BastiGHG_ac |
 | Cast     | CastCrafter |
 | Gamer    | KEK_Dergamer |
-| Hampel   | Hampel |
+| Hampel   | Hampel, Glorp |
 | Hior     | HiorCraft, Fuxel, Fuzzy |
 | KamiIIe  | KamiIIe |
 | Keviro   | Keviro |
