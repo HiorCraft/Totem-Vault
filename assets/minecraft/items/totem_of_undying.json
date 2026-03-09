@@ -11,42 +11,42 @@
           "model": "plushies:item/totem_of_undying_bastighg"
         }
       },
-      {
+       {
         "when": "BastiGHG_v3",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg_3"
         }
       },
-      {
+       {
         "when": "BastiGHG_v4",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg_v4"
         }
       },
-      {
+        {
         "when": "BastiGHG_v1M",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg_1m"
         }
       },
-      {
+       {
         "when": "BastiGHG_v1.5M",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg_15m"
         }
       },
-      {
+       {
         "when": "BastiGHG_ac",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg_ac"
         }
       },
-      {
+       {
         "when": "Hampel",
         "model": {
           "type": "minecraft:model",
@@ -71,14 +71,14 @@
         "when": "Fuxel",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_fuxel"
+          "model": "model:item/totem_of_undying_fuxel"
         }
       },
-      {
+       {
         "when": "Fuzzy",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_fox"
+          "model": "model:item/totem_of_undying_fox"
         }
       },
       {
@@ -88,7 +88,7 @@
           "model": "plushies:item/totem_of_undying_notammo"
         }
       },
-      {
+       {
         "when": "_Danilo",
         "model": {
           "type": "minecraft:model",
@@ -138,34 +138,34 @@
         }
       },
       {
-        "when": "KEK_Dergamer",
+        "when": "Kekified",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_kok_dergamer"
+          "model": "plushies:item/totem_of_undying_kekified"
         }
       },
-      {
+       {
         "when": "Surf",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_surf"
+          "model": "model:item/totem_of_undying_surf"
         }
       },
-      {
+       {
         "when": "Glorp",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_glorp"
+          "model": "image:item/totem_of_undying_glorp"
         }
       },
-      {
-        "when": "Timonso",
+       {
+        "when": "Keviro",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_timonso"
+          "model": "plushies:item/totem_of_undying_keviro"
         }
       },
-      {
+       {
         "when": "RuBiX232",
         "model": {
           "type": "minecraft:model",
@@ -173,11 +173,11 @@
         }
       },
       {
-        "when": "Keviro",
+        "when": "Timonso",
         "model": {
           "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_keviro"
-        }
+          "model": "plushies:item/totem_of_undying_timonso"
+      }
       }
     ],
     "fallback": {

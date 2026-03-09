@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"5": "item/hiorcraft_plushi"
+		"5": "item/totem_of_undying/plushies/hiorcraft_plushi"
 	},
 	"elements": [
 		{

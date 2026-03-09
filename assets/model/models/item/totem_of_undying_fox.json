@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "item/fox_plushi"
+		"0": "item/totem_of_undying/model/fox_plushi"
 	},
 	"elements": [
 		{
