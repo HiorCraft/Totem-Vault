@@ -145,13 +145,6 @@
         }
       },
        {
-        "when": "Surf",
-        "model": {
-          "type": "minecraft:model",
-          "model": "model:item/totem_of_undying_surf"
-        }
-      },
-       {
         "when": "Glorp",
         "model": {
           "type": "minecraft:model",
