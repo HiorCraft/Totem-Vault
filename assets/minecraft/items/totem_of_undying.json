@@ -47,6 +47,13 @@
         }
       },
        {
+        "when": "Zora",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_togeadchip"
+        }
+      },
+       {
         "when": "Hampel",
         "model": {
           "type": "minecraft:model",
@@ -114,6 +121,13 @@
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_hiorcraft"
+        }
+      },
+       {
+        "when": "Pumpe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_pumpeklein"
         }
       },
       {
