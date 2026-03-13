@@ -15,4 +15,6 @@
 | Onso     | Timonso |
 | Rubix    | RuBiX232 |
 | Stegi    | Stxgi |
+| Pumpe    | Pumpe |
+| Zora    | Zora |
  
