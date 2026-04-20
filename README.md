@@ -17,4 +17,5 @@
 | Stegi    | Stxgi |
 | Pumpe    | Pumpe |
 | Zora    | Zora |
+| Soni  | Soni |
  
