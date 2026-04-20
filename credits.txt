@@ -18,19 +18,18 @@ Texture:
 - Danilo
 - KamiIIe
 - xNiklas
-- HiorCraft
 
 ---------------------------------------
 
 Dev:
 - KamiIIe
 - HiorCraft
-- Timonso
+- Tomonso
 
 ---------------------------------------
 
 Version:
-   v1.0 - 1.21.11
+  1.21.5+
 
 ---------------------------------------
 

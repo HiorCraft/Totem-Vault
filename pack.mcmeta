@@ -17,13 +17,22 @@
         "min_format": 56, 
         "max_format": 65
       },
-      { 
+       { 
         "directory": "1.21.11",
         "formats": { 
           "min_inclusive": 69,
           "max_inclusive": 75
         },
         "min_format": 69, 
+        "max_format": 75
+      },
+      { 
+        "directory": "26.1",
+        "formats": { 
+          "min_inclusive": 	84,
+          "max_inclusive": 75
+        },
+        "min_format": 84, 
         "max_format": 75
       }
     ]

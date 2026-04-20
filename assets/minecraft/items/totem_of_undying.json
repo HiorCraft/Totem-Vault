@@ -47,13 +47,6 @@
         }
       },
        {
-        "when": "Zora",
-        "model": {
-          "type": "minecraft:model",
-          "model": "plushies:item/totem_of_undying_togeadchip"
-        }
-      },
-       {
         "when": "Hampel",
         "model": {
           "type": "minecraft:model",
@@ -163,6 +156,13 @@
         "model": {
           "type": "minecraft:model",
           "model": "image:item/totem_of_undying_glorp"
+        }
+      },
+       {
+        "when": "Soni",
+        "model": {
+          "type": "minecraft:model",
+          "model": "image:item/totem_of_undying_soni"
         }
       },
        {
