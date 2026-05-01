@@ -173,6 +173,13 @@
         }
       },
        {
+        "when": "Zora",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_zoraaxs"
+        }
+      },
+       {
         "when": "RuBiX232",
         "model": {
           "type": "minecraft:model",
