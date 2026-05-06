@@ -137,6 +137,13 @@
           "model": "plushies:item/totem_of_undying_xniklas_00"
         }
       },
+       {
+        "when": "Jan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_xapfeltortexp"
+        }
+      },
       {
         "when": "KamiIIe",
         "model": {
@@ -156,6 +163,13 @@
         "model": {
           "type": "minecraft:model",
           "model": "image:item/totem_of_undying_glorp"
+        }
+      },
+       {
+        "when": "Tulipi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "image:item/totem_of_undying_Tulip"
         }
       },
        {
@@ -184,6 +198,13 @@
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_rubix232"
+        }
+      },
+       {
+        "when": "Vici",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_vici"
         }
       },
       {
