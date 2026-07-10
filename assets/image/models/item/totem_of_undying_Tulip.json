@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/totem_of_undying/image/Tulip"
+    "layer0": "item/totem_of_undying/image/tulip"
   }
 }

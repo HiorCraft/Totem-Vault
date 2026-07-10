@@ -40,7 +40,7 @@
         }
       },
        {
-        "when": "BastiGHG_ac",
+        "when": "BastiGHG_vAC",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg_ac"
@@ -51,6 +51,27 @@
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_hampel"
+        }
+      },
+       {
+        "when": "Bokk_OG",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_bokk_og"
+        }
+      },
+       {
+        "when": "Bokk",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_bokk"
+        }
+      },
+       {
+        "when": "Kadse",
+        "model": {
+          "type": "minecraft:model",
+          "model": "model:item/totem_of_undying_kadse"
         }
       },
       {
@@ -169,7 +190,7 @@
         "when": "Tulipi",
         "model": {
           "type": "minecraft:model",
-          "model": "image:item/totem_of_undying_Tulip"
+          "model": "image:item/totem_of_undying_tulip"
         }
       },
        {

@@ -1,40 +1,9 @@
 {
   "pack": {
-    "description": "§d§l§oYou Died but Fancy\n§7Version: v1.3",
-    "pack_format": 46, 
-    "supported_formats": [46, 75], 
-    "min_format": 46, 
-    "max_format": 75
-  },
-  "overlays": {
-    "entries": [
-      { 
-        "directory": "1.21.6",
-        "formats": { 
-          "min_inclusive": 56,
-          "max_inclusive": 65
-        },
-        "min_format": 56, 
-        "max_format": 65
-      },
-       { 
-        "directory": "1.21.11",
-        "formats": { 
-          "min_inclusive": 69,
-          "max_inclusive": 75
-        },
-        "min_format": 69, 
-        "max_format": 75
-      },
-      { 
-        "directory": "26.1",
-        "formats": { 
-          "min_inclusive": 	84,
-          "max_inclusive": 75
-        },
-        "min_format": 84, 
-        "max_format": 75
-      }
-    ]
+    "description": "§d§l§oyou are great\n§7Version: v1.4",
+    "pack_format": 16,
+    "supported_formats": [16, 420],
+    "min_format": 16,
+    "max_format": 420
   }
 }
