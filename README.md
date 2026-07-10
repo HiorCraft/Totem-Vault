@@ -1,8 +1,8 @@
 | Name     | Totem ID(s) |
 |----------|-------------|
-| Alina    | Floweryalina |
+| Alina    | Floweryalina, Tulipi |
 | Ammo     | NotAmmo |
-| BastiGHG | BastiGHG_v3, BastiGHG_v4, BastiGHG_1M, BastiGHG_v5, BastiGHG_v1.5M, BastiGHG_ac |
+| BastiGHG | BastiGHG_v3, BastiGHG_v4, BastiGHG_1M, BastiGHG_v5, BastiGHG_v1.5M, BastiGHG_vAC |
 | Cast     | CastCrafter |
 | Gamer    | kekified |
 | Hampel   | Hampel, Glorp |
